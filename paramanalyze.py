@@ -18,7 +18,7 @@ import re
 #######################################################################################################################
 #GLOBAL VARIABLES
 #######################################################################################################################
-KEYWORD = "HERE2HERE"      #Must be plaintext word unlikely to appear on the page natively
+KEYWORD = "CHECKME"      #Must be plaintext word unlikely to appear on the page natively
 RND_START = "JAKSDKSZA"    #Random string to append to check values. If getting errors, try changing or reducing length
 RND_END = "KLASKSWLQ"
 URL = ""
